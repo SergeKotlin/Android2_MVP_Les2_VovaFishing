@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android2_MVP_Les2</string>
+    <string name="click_me">click_me</string>
+    <string name="text_after_click">text_after_click</string>
+</resources>
